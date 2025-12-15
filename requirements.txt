@@ -1,0 +1,9 @@
+streamlit
+requests
+plotly
+fastapi
+uvicorn[standard]
+pydantic
+tldextract
+rapidfuzz
+python-multipart
